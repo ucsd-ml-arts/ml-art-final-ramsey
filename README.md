@@ -1,12 +1,11 @@
 # Final Project
 
-Your Name, yourcontact@ucsd.edu
-
-(Your teammates' contact info, if appropriate)
+Alex Garcia, asg017@ucsd.edu  
+David Liau, dliau@ucsd.edu  
 
 ## Abstract Proposal
 
-FIRST STEP: Write up a description (in the form of an abstract) of what you will revisit for your final project. This should be one paragraph clearly describing your concept and approach. What are your desired creative goals? How are you expanding on something we covered in the class? How will you present your work next Wednesday in the final project presentations? 
+We wanted our final project to be a creative improvement which could provide users with a sense of customization. So, we decided to expand upon our previous project, which allowed users to copy different dresses onto a picture of their choosing, usually that of torso. Our project aims to expand upon several topics covered in the class, such as the different style transfers as well as deep photo stylization. To expand our project idea, we decided to add similar designs, such as Starbucks drinks and different galaxies or planets. All of these designs will be shown in our live demo next Wednesday.
 
 ## Project Report
 
