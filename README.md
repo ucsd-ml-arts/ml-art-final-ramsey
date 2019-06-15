@@ -13,35 +13,30 @@ We wanted our final project to be a creative improvement which could provide use
 
 ## Model/Data
 
-Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data)
+This repository includes none of the code for the actual project - that can be found on the Observable notebooks and Glitch apps below.
 
 ## Code
 
-Your code for generating your project:
-- Python: generative_code.py
-- Jupyter notebooks: generative_code.ipynb
+- The [main Observable notebook](https://observablehq.com/d/6042cb21712df80d) (direct code [here](https://api.observablehq.com/d/6042cb21712df80d.js?v=3))
+- The [main Glitch app](http://ece188-ramsey.glitch.me) (ports the above Observable notebook into a slightly easier to use format) (direct code [here](https://glitch.com/~ece188-ramsey))
 
 ## Results
 
-Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
-- What you include here will very much depend on the format of your final project
-  - image files (`.jpg`, `.png` or whatever else is appropriate)
-  - 3d models
-  - movie files (uploaded to youtube or vimeo due to github file size limits)
-  - audio files
-  - ... some other form
+Some example pictures can be found in [this Google Drive folder](https://drive.google.com/drive/folders/1xudyeAiToY4Ktja6jlcVFE6d1R67NXAK?usp=sharing).
 
 ## Technical Notes
 
-Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
+The entire project can be ran in most modern web browsers from the [Glitch app](http://ece188-ramsey.glitch.me). There may be issues on some low-end browsers (libary incompatability, network issues, etc), but should work on most desktop clients. We tested on an updated Chrome browser on a Windows computer. 
 
 ## Reference
 
-References to any papers, techniques, repositories you used:
-- Papers
-- Repositories
-- Blog posts
+[1] Reiichiro Nakano, magenta, 2018 
+https://magenta.tensorflow.org/blog/2018/12/20/style-transfer-js/
+[2] @magenta/image npm package
+https://www.npmjs.com/package/@magenta/image
+[3] @tensorflow-models/posenet npm package
+https://github.com/tensorflow/tfjs-models/tree/master/posenet
+[4] OpenCV.js Library
+https://docs.opencv.org/3.4/d5/d10/tutorial_js_root.html
+[5]  OpenCV.js Segmentation
+https://docs.opencv.org/3.4/d3/db4/tutorial_py_watershed.html
